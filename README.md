@@ -1,2 +1,1 @@
-# ISL_lab
-# Torch hub
+# Torchhub
